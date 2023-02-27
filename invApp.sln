@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invApp", "invApp\invApp.csproj", "{6EB9157B-AAC8-4853-B8D2-B827F5EE8180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB9157B-AAC8-4853-B8D2-B827F5EE8180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB9157B-AAC8-4853-B8D2-B827F5EE8180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB9157B-AAC8-4853-B8D2-B827F5EE8180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB9157B-AAC8-4853-B8D2-B827F5EE8180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C820218-05E2-4E14-8628-5BFC6D78BFE4}
+	EndGlobalSection
+EndGlobal
